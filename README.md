@@ -10,7 +10,7 @@ The Kalman filter is a widely-used mathematical tool for:
 - Enhancing measurement accuracy
 
 This implementation focuses on applying the Kalman filter to a sinusoidal signal contaminated with Gaussian noise to showcase its noise reduction capabilities.  
-![image](https://github.com/user-attachments/assets/b2423545-e263-446e-9599-24575af5ddde)
+![image](https://github.com/user-attachments/assets/60180db8-71b2-41c7-b88b-be0cb9609755)
 
 ## Features
 - Comparison of noise variance before and after applying the filter
