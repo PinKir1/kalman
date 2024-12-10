@@ -1,0 +1,227 @@
+Kalman Experiment Results
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 0.1, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.23, After: 8.87
+MSE Before: 4.23, After: 12.37
+Convergence Time: 0.371 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=0.1_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 0.1, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 3.84, After: 10.54
+MSE Before: 3.84, After: 13.06
+Convergence Time: 0.379 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=0.1_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 0.1, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 4.12, After: 8.91
+MSE Before: 4.12, After: 12.53
+Convergence Time: 0.022 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=0.1_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 0.1, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 3.82, After: 9.65
+MSE Before: 3.84, After: 13.02
+Convergence Time: 0.372 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=0.1_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 10.0, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.03, After: 9.36
+MSE Before: 4.05, After: 12.39
+Convergence Time: 0.002 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=10.0_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 10.0, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.01, After: 8.61
+MSE Before: 4.02, After: 12.16
+Convergence Time: 0.025 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=10.0_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 10.0, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 3.84, After: 8.60
+MSE Before: 3.85, After: 12.52
+Convergence Time: 0.009 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=10.0_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 1.0, 'P': 10.0, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 3.69, After: 8.81
+MSE Before: 3.70, After: 12.79
+Convergence Time: 0.003 s
+Saved Plot: kalman_Q=0.1_R=1.0_P=10.0_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 0.1, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.11, After: 12.91
+MSE Before: 4.12, After: 13.24
+Convergence Time: 0.437 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=0.1_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 0.1, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.03, After: 19.10
+MSE Before: 4.03, After: 20.88
+Convergence Time: 0.491 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=0.1_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 0.1, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 3.90, After: 9.33
+MSE Before: 3.90, After: 13.10
+Convergence Time: 0.052 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=0.1_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 0.1, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 4.10, After: 13.98
+MSE Before: 4.10, After: 14.00
+Convergence Time: 0.447 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=0.1_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 10.0, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 3.99, After: 8.74
+MSE Before: 3.99, After: 12.30
+Convergence Time: 0.006 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=10.0_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 10.0, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.04, After: 9.12
+MSE Before: 4.04, After: 12.83
+Convergence Time: 0.367 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=10.0_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 10.0, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 4.03, After: 8.66
+MSE Before: 4.04, After: 12.27
+Convergence Time: 0.011 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=10.0_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 0.1, 'R': 20.0, 'P': 10.0, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 4.03, After: 9.19
+MSE Before: 4.03, After: 12.59
+Convergence Time: 0.370 s
+Saved Plot: kalman_Q=0.1_R=20.0_P=10.0_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 0.1, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.57, After: 9.63
+MSE Before: 4.57, After: 12.89
+Convergence Time: 0.370 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=0.1_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 0.1, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.21, After: 10.90
+MSE Before: 4.22, After: 13.33
+Convergence Time: 0.381 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=0.1_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 0.1, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 3.93, After: 8.78
+MSE Before: 3.94, After: 12.80
+Convergence Time: 0.014 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=0.1_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 0.1, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 3.93, After: 9.61
+MSE Before: 3.94, After: 13.31
+Convergence Time: 0.365 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=0.1_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 10.0, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 3.85, After: 8.82
+MSE Before: 3.85, After: 12.73
+Convergence Time: 0.011 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=10.0_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 10.0, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.03, After: 8.89
+MSE Before: 4.05, After: 11.81
+Convergence Time: 0.000 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=10.0_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 10.0, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 3.81, After: 8.80
+MSE Before: 3.81, After: 12.58
+Convergence Time: 0.366 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=10.0_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 1.0, 'P': 10.0, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 4.20, After: 8.86
+MSE Before: 4.20, After: 12.15
+Convergence Time: 0.001 s
+Saved Plot: kalman_Q=10.0_R=1.0_P=10.0_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 0.1, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.16, After: 12.68
+MSE Before: 4.17, After: 12.89
+Convergence Time: 0.440 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=0.1_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 0.1, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 3.83, After: 19.18
+MSE Before: 3.83, After: 20.79
+Convergence Time: 0.487 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=0.1_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 0.1, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 4.12, After: 9.72
+MSE Before: 4.12, After: 13.33
+Convergence Time: 0.049 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=0.1_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 0.1, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 3.85, After: 13.95
+MSE Before: 3.85, After: 13.97
+Convergence Time: 0.450 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=0.1_x0=2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 10.0, 'x0': -2.0, 'offset': 0.0}
+Variance Before: 4.00, After: 9.06
+MSE Before: 4.01, After: 12.28
+Convergence Time: 0.377 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=10.0_x0=-2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 10.0, 'x0': -2.0, 'offset': 5.0}
+Variance Before: 4.26, After: 9.07
+MSE Before: 4.26, After: 12.38
+Convergence Time: 0.372 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=10.0_x0=-2.0_offset=5.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 10.0, 'x0': 2.0, 'offset': 0.0}
+Variance Before: 3.88, After: 9.07
+MSE Before: 3.88, After: 12.14
+Convergence Time: 0.376 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=10.0_x0=2.0_offset=0.0.png
+==================================================
+
+Parameters: {'Q': 10.0, 'R': 20.0, 'P': 10.0, 'x0': 2.0, 'offset': 5.0}
+Variance Before: 4.03, After: 8.79
+MSE Before: 4.03, After: 12.35
+Convergence Time: 0.373 s
+Saved Plot: kalman_Q=10.0_R=20.0_P=10.0_x0=2.0_offset=5.0.png
+==================================================
+
